@@ -1,0 +1,31 @@
+.action_button {
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.answer {
+    background-color: rgb(128, 128, 128);
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    border-radius: 5%;
+}
+
+.selected_answer {
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    border-radius: 5%;
+}
+
+.answer_box {
+    list-style: none;
+}
